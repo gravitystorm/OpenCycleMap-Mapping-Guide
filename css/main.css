@@ -15,3 +15,19 @@ h1 {
   font-weight: normal;
   margin-top: 0.5em;
 }
+
+h2 {
+  font-weight: normal;
+  text-decoration: underline;
+}
+
+code {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  font-size: 85%;
+  padding: 0 .2em;
+}
+
+pre code {
+  border: none;
+}
