@@ -1,0 +1,17 @@
+body {
+  background-color: #e0e0f0;
+}
+
+#content {
+  border: 3px solid #ccd;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #fff;
+  padding: 4em;
+}
+
+h1 {
+  font-weight: normal;
+  margin-top: 0.5em;
+}
