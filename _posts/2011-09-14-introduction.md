@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The OpenCycleMap guide to tagging
+title: The OpenCycleMap Mapping Guide - Introduction
 ---
 
 {{ page.title }}
